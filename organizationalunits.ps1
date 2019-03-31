@@ -1,4 +1,4 @@
-# brutforce script to make some organizational units
+# brutforce script to make some organizational units I LOVE IFT!!
 
 # you need to change "https://github.com/cheinle22/IFT220_Lab2.git" to match your domain and update the  initials to match or remove them
 
